@@ -61,6 +61,8 @@ The user can run this file as:
     python SMART-GRIDS-TOPOLOGIA-ALGEBRAICA-FUSED.py
 
 and then enable/disable experiments in the __main__ block at the end.
+
+Authors: Jaime Aguilar Ortiz et. al.
 """
 
 # ============================================================================
